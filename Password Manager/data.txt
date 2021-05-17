@@ -1,0 +1,5 @@
+#This text file contains the data entered by the user in the form: Website | Email | Password
+
+Amazon | naveenok191@gmail.com | 1234567 
+Twitter | naveenok191@gmail.com | W7yZr+8wk&Me6!1z 
+Zoho | naveenok191@gmail.com | 9R*PTGFAK&Q+8i0!u 
